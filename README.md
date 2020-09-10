@@ -14,7 +14,7 @@ Vamos lá, com este projeto, estaremos um passo à frente para poder analisar o 
 ### Quem queremos
 * Inovadores: hoje em dia,  fazer o arroz com feijão não é o suficiente.
 * Responsáveis: o commit é seu, o problema é nosso! Não tenha medo de errar _(não sendo na master :innocent:)_, tenha medo de permanecer sem commits! 
-* Apaixonados: sim, é necessário você se apaixonar pelo o que faz, aqui temos um grande carinho pelo bookplay. :blue_heart:
+* Apaixonados: é necessário você se apaixonar pelo o que faz, aqui temos um grande carinho pelo bookplay. :blue_heart:
 * Vontade de estudar e aprender todo o dia.
 
 ### Sobre o contrato
