@@ -1,5 +1,5 @@
 <p class="bg-blue">
-    <img src="https://bookplay.com.br/images/bookplay-logo.svg" width="300px"/>
+    <img src="https://bookplay.com.br/images/bookplay-logo.svg" width="300px" class="bg-blue"/>
 </p>
 
 ## Processo de recrutamento
