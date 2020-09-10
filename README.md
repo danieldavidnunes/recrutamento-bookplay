@@ -51,7 +51,8 @@ Resolvemos dividir o desafio em 4 níveis para você ficar a vontade para ir at�
 ### Nível 1
 Uma página web para listar os top 10 títulos mais acessados do Bookplay. <br>
 Neste repositório, na pasta /data, encontrará o .json necessário com os dados a serem utilizados. <br>
-> Exibe-os da forma que achar melhor, use sua criatividade.
+Exibe-os da forma que achar melhor, use sua criatividade.
+
 > - Dica 1: nossa cor preferida é a #48a0dc; abuse! :blue_heart: <br>
 > - Dica 2: faça 100% dos seus códigos, não é necessário bootstrap etc etc :zzz: :zzz:
 > - Dica 3: manja de React? Esta é a hora de se destacar! :wink:
@@ -70,9 +71,9 @@ Vamos lá, utilize a seguinte URL para ter acesso aos nossos top 10 mais acessad
 O que? Já consumiu nossa API e deu tudo certo?! :clap: <br>
 Agoraaaaa vamos melhorar o que já está bom? Não te falei, mas nesta mesma API, você pode nos enviar se quer saber os top 10 de livros, cursos, audiobooks, videoaulas ou até mesmo da banca! Simmmm, temos tudo isso no Bookplay! :heart_eyes: 
 
-> Crie um seletor da maneira que achar melhor (rádio, combobox, etc) <br>
-> Envie o código correspondente na URL da requisição, exemplo: <br>
-> `https://bmain.bookplay.com.br/parceiros/6BB6F620/conteudo/top10/acessos/codConteudo` <br>
+Crie um seletor da maneira que achar melhor (rádio, combobox, etc) <br>
+Envie o código correspondente na URL da requisição, exemplo: <br>
+`https://bmain.bookplay.com.br/parceiros/6BB6F620/conteudo/top10/acessos/codConteudo` <br>
 
 ##### Tipos de conteúdo (codConteudo)
 * 1: Livros
@@ -81,13 +82,14 @@ Agoraaaaa vamos melhorar o que já está bom? Não te falei, mas nesta mesma API
 * 5: Banca
 * 6: Audiobooks
  
- > Dica 1: que tal criar um cache destas requisições? :zap: <br>
- > Dica 2: uau, imagina linkar estes títulos aqui?! `https://bookplay.com.br/conteudo/08793`. Sei que consegue!
+> Dica 1: que tal criar um cache destas requisições? :zap: <br>
+> Dica 2: uau, imagina linkar estes títulos aqui?! `https://bookplay.com.br/conteudo/08793`. Sei que consegue!
 
 ### Nível 4
-Agora iremos dividir os meninos :boy: dos homens :man:. Chegou a hora de colocarmos um pouco de segurança nesta sua página!:lock:<br>
+Agora iremos dividir os meninos :boy: dos homens :man:. Chegou a hora de colocarmos um pouco de segurança nesta sua página!:lock:
 
-> Crie um formulário de login/cadastro de usuário, para que sua página dos Top 10 só seja acessível para usuários logados.<br>
+Crie um formulário de login/cadastro de usuário, para que sua página dos Top 10 só seja acessível para usuários logados.
+
 > Dica 1: loading tips :clock1:
 
 Fica a seu critério para qual banco de dados utilizará e qual a forma que armazenará o estado de logado! :key:<br>
