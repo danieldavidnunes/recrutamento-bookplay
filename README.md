@@ -1,6 +1,6 @@
-<div class="bg-blue">
+<p class="bg-blue">
     <img src="https://bookplay.com.br/images/bookplay-logo.svg" width="300px"/>
-</div>
+</p>
 
 ## Processo de recrutamento
 
