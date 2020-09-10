@@ -42,7 +42,7 @@ O que vamos avaliar:
 * Manutenibilidade.
 
 ## O Desafio
-Resolvemos dividir o desafio em 3 níveis para você ficar a vontade para ir até aonde seus conhecimentos permitirem (não pare por ai).
+Resolvemos dividir o desafio em 3 níveis para você ficar a vontade para ir até aonde seus conhecimentos permitirem (não se limite).
 
 #### Frameworks / Libs Recomendados
 * React
