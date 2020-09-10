@@ -87,7 +87,7 @@ Agoraaaaa vamos melhorar o que já está bom? Não te falei, mas nesta mesma API
 ### Nível 4
 Agora iremos dividir os meninos :boy: dos homens :man:. Chegou a hora de colocarmos um pouco de segurança nesta sua página!:lock:<br>
 
-> Crie um formulário de login/cadastro de usuário, para que sua página dos Top 10 só seja acessível para usuários logados.
+> Crie um formulário de login/cadastro de usuário, para que sua página dos Top 10 só seja acessível para usuários logados.<br>
 > Dica 1: loading tips :clock1:
 
 Fica a seu critério para qual banco de dados utilizará e qual a forma que armazenará o estado de logado! :key:<br>
