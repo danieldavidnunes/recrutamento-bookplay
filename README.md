@@ -59,7 +59,7 @@ Exibe-os da forma que achar melhor, use sua criatividade.
 
 ### Nível 2
 Se você chegou aqui, é por que apenas uma WebPage não te para! :smile: <br>
-Chegou a hora de você jogar fora o .json e consumir nossa API para retornar a mesma estrutura existente no .json.
+Chegou a hora de você jogar fora o .json e consumir nossa API para retornar a mesma estrutura existente no .json.<br>
 Vamos lá, utilize a seguinte URL para ter acesso aos nossos top 10 mais acessados do momento! <br>
 `https://bmain.bookplay.com.br/parceiros/6BB6F620/conteudo/top10/acessos`
 
@@ -87,8 +87,8 @@ Envie o código correspondente na URL da requisição, exemplo: <br>
 ### Nível 4
 Agora iremos dividir os meninos :boy: dos homens :man:. Chegou a hora de colocarmos um pouco de segurança nesta sua página!:lock:
 
-Crie um formulário de login/cadastro de usuário, para que sua página dos Top 10 só seja acessível para usuários logados.
-Fica a seu critério para qual banco de dados utilizará e qual a forma que armazenará o estado de logado! :key:
+Crie um formulário de login/cadastro de usuário, para que sua página dos Top 10 só seja acessível para usuários logados.<br>
+Fica a seu critério para qual banco de dados utilizará e qual a forma que armazenará o estado de logado! :key:<br>
 O que vai nos importar vai ser a sua lógica :bulb: e até aonde irá na segurança desta sua página.
 
 > Dica 1: loading tips :clock1:
