@@ -1,6 +1,6 @@
-<div style="background-color: #48a0dc; display: flex; justify-content: center; padding: 10px">
+<p style="background-color: #48a0dc; display: flex; justify-content: center; padding: 10px">
     <img src="https://bookplay.com.br/images/bookplay-logo.svg" width="300px"/>
-</div>
+</p>
 
 ## Processo de recrutamento
 
