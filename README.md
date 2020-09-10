@@ -97,6 +97,6 @@ ___
 Qualquer dúvida entre em contato através do email danilo@bookplay.com.br
 </p>
 <p align="center">
-Este teste de recrutamento foi feito de :blue_heart: de *dev* para *devs*.
+Este teste de recrutamento foi feito de :blue_heart: de **dev** para **devs**.
 </p>
 
