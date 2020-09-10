@@ -1,8 +1,12 @@
+```
 <p class="bg-blue">
     <img src="https://bookplay.com.br/images/bookplay-logo.svg" width="300px"/>
 </p>
+```
 
-## Processo de recrutamento
+<h1 style="color: #48a0dc">
+Processo de recrutamento
+</h1>
 
 Seja bem-vindo ao nosso processo de recrutamento, está familiarizado com o Git? Já é um bom começo! :smile:
 
