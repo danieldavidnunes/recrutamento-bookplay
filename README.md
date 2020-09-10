@@ -72,7 +72,7 @@ Agoraaaaa vamos melhorar o que já está bom? Não te falei, mas nesta mesma API
 
 Crie um seletor da maneira que achar melhor (rádio, combobox, etc) <br>
 Envie o código correspondente na URL da requisição, exemplo: <br>
-`https://bmain.bookplay.com.br/parceiros/6BB6F620/recrutamento/top10/acessos/codConteudo` <br>
+`https://bmain.bookplay.com.br/parceiros/6BB6F620/recrutamento/top10/acessos/6` <br>
 
 ##### Tipos de conteúdo (codConteudo)
 * 1: Livros
