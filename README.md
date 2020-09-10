@@ -61,7 +61,7 @@ Exibe-os da forma que achar melhor, use sua criatividade.
 Se você chegou aqui, é por que apenas uma WebPage não te para! :smile: <br>
 Chegou a hora de você jogar fora o .json e consumir nossa API para retornar a mesma estrutura existente no .json.<br>
 Vamos lá, utilize a seguinte URL para ter acesso aos nossos top 10 mais acessados do momento! <br>
-`https://bmain.bookplay.com.br/parceiros/6BB6F620/conteudo/top10/acessos`
+`https://bmain.bookplay.com.br/parceiros/6BB6F620/recrutamento/top10/acessos`
 
 > Dica 1: não custa nada criar um preloader para esta requisição, não é mesmo? :zzz: <br>
 > Dica 2: pode ser que a requisição falhe heim!? :frowning:
@@ -72,7 +72,7 @@ Agoraaaaa vamos melhorar o que já está bom? Não te falei, mas nesta mesma API
 
 Crie um seletor da maneira que achar melhor (rádio, combobox, etc) <br>
 Envie o código correspondente na URL da requisição, exemplo: <br>
-`https://bmain.bookplay.com.br/parceiros/6BB6F620/conteudo/top10/acessos/codConteudo` <br>
+`https://bmain.bookplay.com.br/parceiros/6BB6F620/recrutamento/top10/acessos/codConteudo` <br>
 
 ##### Tipos de conteúdo (codConteudo)
 * 1: Livros
