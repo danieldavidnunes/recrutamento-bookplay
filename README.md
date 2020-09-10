@@ -14,7 +14,7 @@ Vamos lá, com este projeto, estaremos um passo à frente para poder analisar o 
 ### Quem queremos
 * Inovadores: hoje em dia,  fazer o arroz com feijão não é o suficiente.
 * Responsáveis: o commit é seu, o problema é nosso! Não tenha medo de errar _(não sendo na master :innocent:)_, tenha medo de permanecer sem commits! 
-* Apaixonados: é necessário você se apaixonar pelo o que faz, aqui temos um grande carinho pelo bookplay. :blue_heart:
+* Apaixonados: é necessário você se apaixonar pelo o que faz, aqui temos um grande carinho pelo Bookplay. :blue_heart:
 * Vontade de estudar e aprender todo o dia.
 
 ### Sobre o contrato
@@ -34,10 +34,6 @@ Os requisitos que precisamos para as vagas:
 * Node.js
 * Frameworks (React/React Native)
 
-### Frameworks / Libs Recomendados
-* React
-* Axios
-
 ### Avaliação
 O que vamos avaliar:
 * Criatividade;
@@ -47,6 +43,10 @@ O que vamos avaliar:
 
 ## O Desafio
 Resolvemos dividir o desafio em 3 níveis para você ficar a vontade para ir até aonde seus conhecimentos permitirem (não pare por ai).
+
+#### Frameworks / Libs Recomendados
+* React
+* Axios
 
 ### Nível 1
 Uma página web para listar os top 10 títulos mais acessados do Bookplay.
