@@ -86,10 +86,10 @@ Agoraaaaa vamos melhorar o que já está bom? Não te falei, mas nesta mesma API
 
  
 ## Observações
-* Não faça o fork deste repositório
-* Envie o link do seu repositório para que possamos avaliar seu código, práticas utilizadas, padrões etc
-* Na raiz do seu repositório crie um arquivo PROJECT.md explicando como foi a execução do projeto com o máximo de detalhes
-* Assim que terminar o desafio envie um email contendo o assunto **recrutamento** para **danilo@bookplay.com.br** com seu **curriculo, pretensão salarial e o link do seu repositório**
+* Não faça fork deste repositório.
+* Envie o link do seu repositório para que possamos avaliar seu código, práticas utilizadas, padrões etc.
+* Na raiz do seu repositório crie um arquivo README.md explicando como foi a execução do projeto com o máximo de detalhes.
+* Assim que terminar o desafio envie um email contendo o assunto **recrutamento** para **danilo@bookplay.com.br** com seu **curriculo, pretensão salarial e o link do seu repositório**.
 
 ___
 
