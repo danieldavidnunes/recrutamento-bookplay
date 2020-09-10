@@ -49,8 +49,8 @@ Resolvemos dividir o desafio em 3 níveis para você ficar a vontade para ir at�
 * Axios
 
 ### Nível 1
-Uma página web para listar os top 10 títulos mais acessados do Bookplay.
- Neste repositório, na pasta /data, encontrará o .json necessário com os dados a serem utilizados. <br>
+Uma página web para listar os top 10 títulos mais acessados do Bookplay. <br>
+Neste repositório, na pasta /data, encontrará o .json necessário com os dados a serem utilizados. <br>
 > Exibe-os da forma que achar melhor, use sua criatividade.
 > - Dica 1: nossa cor preferida é a #48a0dc; abuse! :blue_heart: <br>
 > - Dica 2: faça 100% dos seus códigos, não é necessário bootstrap etc etc :zzz: :zzz:
