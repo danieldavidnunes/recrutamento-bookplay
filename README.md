@@ -42,7 +42,7 @@ O que vamos avaliar:
 * Manutenibilidade.
 
 ## O Desafio
-Resolvemos dividir o desafio em 3 níveis para você ficar a vontade para ir até aonde seus conhecimentos permitirem (não se limite).
+Resolvemos dividir o desafio em 4 níveis para você ficar a vontade para ir até aonde seus conhecimentos permitirem (não se limite).
 
 #### Frameworks / Libs Recomendados
 * React
@@ -61,18 +61,18 @@ Se você chegou aqui, é por que apenas uma WebPage não te para! :smile: <br>
 Chegou a hora de você jogar fora o .json e consumir nossa API para retornar a mesma estrutura existente no .json.
 
 Vamos lá, utilize a seguinte URL para ter acesso aos nossos top 10 mais acessados do momento! <br>
-`https://bmain.bookplay.com.br/parceiros/__CODIGO_PARCEIRO__/conteudo/top10/acessos`
+`https://bmain.bookplay.com.br/parceiros/6BB6F620/conteudo/top10/acessos`
 
 > Dica 1: não custa nada criar um preloader para esta requisição, não é mesmo? :zzz: <br>
 > Dica 2: pode ser que a requisição falhe heim!? :frowning:
 
 ### Nível 3
 O que? Já consumiu nossa API e deu tudo certo?! :clap: <br>
-Agoraaaaa vamos melhorar o que já está bom? Não te falei, mas nesta mesma API, você pode nos enviar se quer saber os 10 top de livros, cursos, audiobooks, videoaulas ou até mesmo da banca! Simmmm, temos tudo isso no Bookplay! :heart_eyes: 
+Agoraaaaa vamos melhorar o que já está bom? Não te falei, mas nesta mesma API, você pode nos enviar se quer saber os top 10 de livros, cursos, audiobooks, videoaulas ou até mesmo da banca! Simmmm, temos tudo isso no Bookplay! :heart_eyes: 
 
 > Crie um seletor da maneira que achar melhor (rádio, combobox, etc) <br>
 > Envie o código correspondente na URL da requisição, exemplo: <br>
-> `https://bmain.bookplay.com.br/parceiros/__CODIGO_PARCEIRO__/conteudo/top10/acessos/codConteudo` <br>
+> `https://bmain.bookplay.com.br/parceiros/6BB6F620/conteudo/top10/acessos/codConteudo` <br>
 
 ##### Tipos de conteúdo (codConteudo)
 * 1: Livros
@@ -82,14 +82,21 @@ Agoraaaaa vamos melhorar o que já está bom? Não te falei, mas nesta mesma API
 * 6: Audiobooks
  
  > Dica 1: que tal criar um cache destas requisições? :zap: <br>
- > Dica Bonus: uau, imagina linkar estes títulos aqui?! `https://bookplay.com.br/conteudo/08793`. Sei que consegue!
+ > Dica 2: uau, imagina linkar estes títulos aqui?! `https://bookplay.com.br/conteudo/08793`. Sei que consegue!
 
+### Nível 4
+Agora iremos dividir os meninos :boy: dos homens :man:. Chegou a hora de colocarmos um pouco de segurança nesta sua página!:lock:<br>
+
+> Crie um formulário de login/cadastro de usuário, para que sua página dos Top 10 só seja acessível para usuários logados.
+
+Fique a seu critério para qual banco de dados utilizará e qual a forma que armazenará o estado de logado! :key:<br>
+O que vai nos importar vai ser a sua lógica :bulb: e até aonde irá na segurança desta sua página.
  
 ## Observações
 * Não faça fork deste repositório.
-* Envie o link do seu repositório para que possamos avaliar seu código, práticas utilizadas, padrões etc.
-* Na raiz do seu repositório crie um arquivo README.md explicando como foi a execução do projeto com o máximo de detalhes.
-* Assim que terminar o desafio envie um email contendo o assunto **recrutamento** para **danilo@bookplay.com.br** com seu **curriculo, pretensão salarial e o link do seu repositório**.
+* Na raiz do seu projeto crie um arquivo README.md explicando como foi a execução do projeto com o máximo de detalhes.
+* Envie o link do seu repositório para que possamos avaliar seu código, práticas utilizadas, padrões etc. Se não tiver uma conta no Github ou não souber utilizar, não tem problema, crie um arquivo zip com toda sua aplicação e anexe no email.
+* Assim que terminar o desafio envie um email contendo o assunto **recrutamento** para **danilo@bookplay.com.br** com seu **curriculum**, **pretensão salarial** e o **item anterior**.
 
 ___
 
