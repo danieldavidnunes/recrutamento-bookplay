@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://bookplay.com.br/images/bookplay-logo-blue.png" width="200px"/>
+    <img src="https://bookplay.com.br/images/bookplay-logo-blue.svg" width="400px"/>
 </p>
 
 
