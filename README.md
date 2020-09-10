@@ -89,7 +89,7 @@ Agora iremos dividir os meninos :boy: dos homens :man:. Chegou a hora de colocar
 
 > Crie um formulário de login/cadastro de usuário, para que sua página dos Top 10 só seja acessível para usuários logados.
 
-Fique a seu critério para qual banco de dados utilizará e qual a forma que armazenará o estado de logado! :key:<br>
+Fica a seu critério para qual banco de dados utilizará e qual a forma que armazenará o estado de logado! :key:<br>
 O que vai nos importar vai ser a sua lógica :bulb: e até aonde irá na segurança desta sua página.
  
 ## Observações
