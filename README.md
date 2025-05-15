@@ -98,12 +98,12 @@ O que vai nos importar vai ser a sua lógica :bulb: e até aonde irá na seguran
 * Não faça fork deste repositório.
 * Na raiz do seu projeto crie um arquivo README.md explicando como foi a execução do projeto com o máximo de detalhes.
 * Envie o link do seu repositório para que possamos avaliar seu código, práticas utilizadas, padrões etc. Se não tiver uma conta no Github ou não souber utilizar, não tem problema, crie um arquivo zip com toda sua aplicação e anexe no email.
-* Assim que terminar o desafio envie um email contendo o assunto **recrutamento** para **danilo@bookplay.com.br** com seu **curriculum**, **pretensão salarial** e o **item anterior**.
+* Assim que terminar o desafio envie um email contendo o assunto **recrutamento** para **daniel@bookplay.com.br** com seu **curriculum**, **pretensão salarial** e o **item anterior**.
 
 ___
 
 <p align="center">
-Qualquer dúvida entre em contato através do email danilo@bookplay.com.br
+Qualquer dúvida entre em contato através do email daniel@bookplay.com.br
 </p>
 <p align="center">
 Este teste de recrutamento foi feito de :blue_heart: de <b>dev</b> para <b>devs</b>.
