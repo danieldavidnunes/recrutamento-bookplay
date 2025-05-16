@@ -82,10 +82,10 @@ Envie o código correspondente na URL da requisição, exemplo: <br>
 * 6: Audiobooks
  
 > Dica 1: que tal criar um cache destas requisições? :zap: <br>
-> Dica 2: uau, imagina linkar estes títulos aqui?! `https://bookplay.com.br/conteudo/08793`. Sei que consegue!
+> Dica 2: uau, imagina linkar estes títulos assim?! `[https://bookplay.com.br/conteudo/08793](https://bookplay.com.br/conteudo/88028)`. Sei que consegue!
 
 ### Nível 4
-Agora iremos dividir os meninos :boy: dos homens :man:. Chegou a hora de colocarmos um pouco de segurança nesta sua página!:lock:
+Chegou a hora de colocarmos um pouco de segurança nesta sua página!:lock:
 
 Crie um formulário de login/cadastro de usuário, para que sua página dos Top 10 só seja acessível para usuários logados.<br>
 Fica a seu critério para qual banco de dados utilizará e qual a forma que armazenará o estado de logado! :key:<br>
